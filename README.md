@@ -1,2 +1,2 @@
 # kvm-miniguide
-a mini guide for KVM
+A minimal guide for KVM
